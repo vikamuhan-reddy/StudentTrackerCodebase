@@ -1,0 +1,8 @@
+{
+  "name": "student-expense-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@azure/data-tables": "^12.2.0"
+  }
+}
